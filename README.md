@@ -1,3 +1,4 @@
+# ⚠️ Project has moved to [Codigami/gohaqd](https://github.com/Codigami/gohaqd) ⚠️
 # gohaqd
 
 [![Build Status](https://travis-ci.org/ApsOps/gohaqd.svg?branch=master)](https://travis-ci.org/ApsOps/gohaqd)
